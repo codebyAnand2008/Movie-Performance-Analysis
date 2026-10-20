@@ -35,4 +35,4 @@ I'm continuously learning and building real-world Data Analytics projects to str
 <img width="1836" height="672" alt="Screenshot 2026-10-20 122514" src="https://github.com/user-attachments/assets/c8c26b66-1462-483d-91e3-000e864c3541" />
 
 #Excel #DataAnalytics #ExcelDashboard #DataVisualization #MicrosoftExcel #KPIs #DataAnalyst #PortfolioProject #LearningByDoing
-# Movie-Performance-Analysis
+
