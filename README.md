@@ -5,9 +5,9 @@ I’m excited to share my **Movie Performance Analysis Dashboard**, created usin
 🔍 **Project Overview:**
 The dashboard explores movie runtime, popularity, budget, revenue, and year-wise performance using interactive charts and slicers.
 ## Data set used
-- <a href-"https://github.com/codebyAnand2008/Movie-Performance-Analysis/blob/main/Movies_data_2000(1).xlsx">Data set view</a>
+- <a href="https://github.com/codebyAnand2008/Movie-Performance-Analysis/blob/main/Movies_data_2000(1).xlsx">Data set view</a>
 ## Dashboard 
-- <a href-"https://github.com/codebyAnand2008/Movie-Performance-Analysis/blob/main/Screenshot%202026-10-20%20122514.png">dashboars view</a>
+- <a href="https://github.com/codebyAnand2008/Movie-Performance-Analysis/blob/main/Screenshot%202026-10-20%20122514.png">dashboars view</a>
 
 📌 **Key KPIs & Insights:**
 ✅ **Movie Runtime:** Identified movies with the highest runtimes.
